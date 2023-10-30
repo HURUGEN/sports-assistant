@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "sports-assistant",
+  "appid": "wxab3a52387c19e2a8",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
